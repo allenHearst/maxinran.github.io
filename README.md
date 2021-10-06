@@ -28,12 +28,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### All Activities
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allenHearst/allenHearst.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Email: xinranma.gm [at] gmail [dot] com
+Email: [xinranma.gm@gmail.com](xinranma.gm@gmail.com)
 Address: Room B316, JiChuJiaoXue Building, Sichuan University, Wangjiang Campus, 610065.
 地址: 四川省成都市一环路南一段24号四川大学基础教学楼B316, 610065
