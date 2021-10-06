@@ -7,6 +7,8 @@ email: xinranma.gm@gmail.com
 RSS: false
 github_username: allenHearst
 
+timezone: China/Shanghai
+
 markdown: redcarpet
 redcarpet:
   extensions: [with_toc_data]
