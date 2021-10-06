@@ -58,8 +58,7 @@
       </section>
       <footer style="text-align: center;">
         <span class="footer-copyright-text">
-          <!-- Copyright &copy; {{ site.time | date:'%D' }}. -->
-          Copyright &copy; {{ site.time }}.
+          Copyright &copy; {{ site.time |  date: '%Y-%m-%d %H:%M:%S'}}.
         </span>
         {% if site.github.is_project_page %}
         <p>This project is maintained by {{ site.github.owner_name }}</p>
