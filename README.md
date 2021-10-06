@@ -60,7 +60,7 @@ I am very glad to be a member of the scientific research staff, and welcome you 
 
 
 
-# Support or Contact
+# Contact
 
 ### Email: [xinranma.gm@gmail.com]
 ### Address: Room B316, JiChuJiaoXue Building, Sichuan University, Wangjiang Campus, 610065.
