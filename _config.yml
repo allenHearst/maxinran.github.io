@@ -1,13 +1,13 @@
 theme: jekyll-theme-minimal
 title: I'm Ma Xinran
-description: Welcome to XLearning Lab!
+description: Sichuan University, China
 logo: ./portrait.png
 url: https://allenHearst.github.io/
 email: xinranma.gm@gmail.com
 RSS: false
 github_username: allenHearst
 
-timezone: China/Beijing
+timezone: China/Bei_Jing
 
 markdown: redcarpet
 redcarpet:
