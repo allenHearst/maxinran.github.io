@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to XLearning Lab
 
-You can use the [editor on GitHub](https://github.com/allenHearst/allenHearst.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is [Xinran Ma](https://allenHearst.github.io/maxinran.github.io/). I graduated from [Sichuan University](https://www.scu.edu.cn/). Now I am studying for my master's degree in School of Computer Science, Sichuan University.
+I work in XLearning Laboratory in Basic Teaching Building B316, Wangjiang Campus, Sichuan University. My tutor is Professor [Peng Xi](https://pengxi.me/).
+I am very glad to be a member of the scientific research staff, and welcome you to visit me or our laboratory.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
