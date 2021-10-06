@@ -34,4 +34,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: xinranma.gm [at] gmail [dot] com
+Address: Room B316, JiChuJiaoXue Building, Sichuan University, Wangjiang Campus, 610065.
+地址: 四川省成都市一环路南一段24号四川大学基础教学楼B316, 610065
