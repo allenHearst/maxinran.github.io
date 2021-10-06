@@ -1,17 +1,14 @@
-- title: 'HOME'
-  url: 'index.html'
-
 - title: 'RESEARCH INTERESTS'
-  url: '#Research Interests'
+  url: '#research-interests'
 
 - title: 'NEWS'
-  url: '#News'
+  url: '#news'
 
 - title: 'PUBLICATIONS'
-  url: '#Publications'
+  url: '#publications'
 
 - title: 'ACTIVITIES'
-  url: '#Activities'
+  url: '#activities'
 
 - title: 'SUPPORT OR Contact'
-  url: 'Support or Contact'
+  url: 'support-or-contact'
