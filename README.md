@@ -4,8 +4,13 @@ My name is [Xinran Ma](https://allenHearst.github.io/maxinran.github.io/). I gra
 I work in XLearning Laboratory in Basic Teaching Building B316, Wangjiang Campus, Sichuan University. My tutor is Professor [Peng Xi](https://pengxi.me/).
 I am very glad to be a member of the scientific research staff, and welcome you to visit me or our laboratory.
 
-# All Activities
+# Research Interests
 
+# Activities
+
+# News
+
+# Publications
 
 # Support or Contact
 
