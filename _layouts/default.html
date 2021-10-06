@@ -44,13 +44,13 @@
           <ul class="header-main-nav">
             {% for item in site.data.menus %}
             <li class="header-main-nav-item">
-              <a href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}">
+              <h2><a href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}">
                 {% if item.default %}
                   {{site.data.lang[site.language][item.default]}}
                 {% else %}
                   {{ item.title }}
                 {% endif %}
-              </a>
+              </a></h2>
             </li>
             {% endfor %}
           </ul>
