@@ -23,7 +23,7 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <a href="{{ site.email }}">[Email]</a><a href="#">[Google Scholar]</a>
+        <a href="mailto: {{ site.email }}">[Email]</a><a href="#">[Google Scholar]</a>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -60,7 +60,7 @@
       </header>
       <section>
 
-      {{ content }}
+      {{ README.md }}
 
       </section>
       <footer>
