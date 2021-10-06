@@ -1,3 +1,5 @@
+![alt portrait](portrait.png portrait)
+
 # Welcome to XLearning Lab! I'm Ma Xinran!
 
 My name is [Xinran Ma](https://allenHearst.github.io/maxinran.github.io/). I graduated from [Sichuan University](https://www.scu.edu.cn/). Now I am studying for my master's degree in [School of Computer Science, Sichuan University](https://cs.scu.edu.cn/).
