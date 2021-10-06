@@ -19,7 +19,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 style="text-align: center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 style="text-align: center;"><a style="color: black;" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -27,9 +27,9 @@
 
         <p style="text-align: center;">{{ site.description | default: site.github.project_tagline }}</p>
         <h1 style="text-align: center;">
-          <a href="https://github.com/allenHearst" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-          <a href="mailto: {{ site.email }}" target="_blank" title="Email"><i class="fas fa-envelope"></i></a>
-          <a href="#" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+          <a style="color: black;" href="https://github.com/allenHearst" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+          <a style="color: black;" href="mailto: {{ site.email }}" target="_blank" title="Email"><i class="fas fa-envelope"></i></a>
+          <a style="color: black;" href="#" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
         </h1>
 
         <br>
@@ -38,7 +38,7 @@
           <ul class="header-main-nav">
             {% for item in site.data.menus %}
             <li class="header-main-nav-item">
-              <h2><a href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}">
+              <h2><a style="color: black;" href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}">
                 {% if item.default %}
                   {{site.data.lang[site.language][item.default]}}
                 {% else %}
