@@ -1,4 +1,4 @@
-![alt portrait](portrait.png portrait)
+![portrait](./portrait.png)
 
 # Welcome to XLearning Lab! I'm Ma Xinran!
 
