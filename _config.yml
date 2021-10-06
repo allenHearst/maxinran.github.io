@@ -9,6 +9,4 @@ github_username: allenHearst
 
 timezone: Asia/Shanghai
 
-markdown: redcarpet
-redcarpet:
-  extensions: [with_toc_data]
+
