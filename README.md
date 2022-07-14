@@ -46,8 +46,10 @@ Multi-Modal, Multi-View, Noise Label, **Noise Correspondence** and Large Scale V
 
 
 
-[2021] Outstanding Graduate, Sichuan University 
+[2021] Outstanding Graduate, Sichuan University  
+
 [2021,2020,2019] Outstanding Student, Sichuan University 
+
 [2021,2020,2019] Comprehensive Scholarship, Sichuan University
 
 
