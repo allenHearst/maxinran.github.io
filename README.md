@@ -59,5 +59,5 @@ Multi-Modal, Multi-View, Noise Label, **Noise Correspondence** and Large Scale V
 # Contact
 
 #### Email: [xinranma.gm@gmail.com]
-#### Address: Room B316, JiChuJiaoXue Building, Sichuan University, Wangjiang Campus, 610065.
+#### Address: Room B316, JiChuJiaoXue Building (Basic Teaching Building), Sichuan University, Wangjiang Campus, 610065.
 #### 地址: 四川省成都市一环路南一段24号四川大学基础教学楼B316, 610065
