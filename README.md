@@ -7,7 +7,7 @@ I am very glad to be a member of the scientific research staff, and welcome you 
 # Research Interests
 
 
-Multi-Modal, Multi-View, Noise Label, **Noise Correspondence** and Large Scale Video-Language Pretraining
+Multi-Modal Learning, Learning with **Noisy Correspondence**
 
 
 
