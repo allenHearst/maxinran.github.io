@@ -20,7 +20,7 @@ Multi-Modal Learning, Learning with **Noisy Correspondence**
 
 
 
-
+[2024-02] Feb. 28, 2024, one paper was accepted by IEEE Transactions on Image Processing (TIP)! 
 [2022-06] I graduated from the Wu Yuzhang Honors College of Sichuan University in June 2022 with a Bachelor of Engineering degree in Computer Science and Technology.
 
 
@@ -31,7 +31,8 @@ Multi-Modal Learning, Learning with **Noisy Correspondence**
 # Publications
 
 
-
+[IEEE TIP 2024]Xinran Ma#, Mouxing Yang#, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*, Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining, IEEE Trans Image Processing (TIP), 2024.
+[[PDF](http://pengxi.me/wp-content/uploads/2024/03/pengxime-online.pdf)] [[Code](https://github.com/XLearning-SCU/2024-TIP-CREAM/)] 
 
 
 
