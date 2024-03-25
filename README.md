@@ -38,7 +38,7 @@ Multi-Modal Learning, Learning with **Noisy Correspondence**
 REfining And Mining (CREAM) by revealing and exploiting the difference between correspondence and consistency. Specifically, the correspondence and the consistency only be coincident for true positive and true negative pairs, while being distinct for false positive and false negative pairs. Based on the observation, CREAM employs a collaborative learning paradigm to detect and rectify the correspondence of positives, and a negative mining approach to explore and utilize the consistency. Thanks to the consistency refining and mining strategy of CREAM, the overfitting on the false positives could be prevented and the consistency rooted in the false negatives could be exploited, thus leading to a robust CMR method. Extensive experiments verify the effectiveness of our method on three image-text benchmarks including Flickr30K, MS-COCO, and Conceptual
 Captions. Furthermore, we adopt our method into the graph matching task and the results demonstrate the robustness of our method against fine-grained NC problem.
 
-[[**PDF**](http://pengxi.me/wp-content/uploads/2024/03/pengxime-online.pdf)] [[**Code**](https://github.com/XLearning-SCU/2024-TIP-CREAM/)] 
+[[PDF](http://pengxi.me/wp-content/uploads/2024/03/pengxime-online.pdf)] [[Code](https://github.com/XLearning-SCU/2024-TIP-CREAM/)] 
 
 
 
@@ -53,11 +53,11 @@ Captions. Furthermore, we adopt our method into the graph matching task and the 
 
 
 
-[**2021**] Outstanding Graduate, Sichuan University  
+[2021] Outstanding Graduate, Sichuan University  
 
-[**2021,2020,2019**] Outstanding Student, Sichuan University 
+[2021,2020,2019] Outstanding Student, Sichuan University 
 
-[**2021,2020,2019**] Comprehensive Scholarship, Sichuan University
+[2021,2020,2019] Comprehensive Scholarship, Sichuan University
 
 
 
