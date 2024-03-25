@@ -32,7 +32,7 @@ Multi-Modal Learning, Learning with **Noisy Correspondence**
 # Publications
 
 
-[IEEE TIP 2024]Xinran Ma#, Mouxing Yang#, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*, Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining, IEEE Trans Image Processing (TIP), 2024.
+[IEEE TIP 2024] Xinran Ma#, Mouxing Yang#, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*, Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining, IEEE Trans Image Processing (TIP), 2024.
 
 [[PDF](http://pengxi.me/wp-content/uploads/2024/03/pengxime-online.pdf)] [[Code](https://github.com/XLearning-SCU/2024-TIP-CREAM/)] 
 
